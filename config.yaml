@@ -1,8 +1,13 @@
 ---
 languageCode: "en-us"
 title: "the breadblog"
+baseURL: "http://www.ashander.info/breadblog/"
 metaDataFormat: "yaml"
 theme: "hugo_theme_robust"
 params:
   AuthorName: "Jaime Ashander"
+taxonomies:
+  category: "categories"
+  ingredient: "ingredients"
+ignoreFiles: "\\.xcf$"
 ...
