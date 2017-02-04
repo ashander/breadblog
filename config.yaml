@@ -1,0 +1,8 @@
+---
+languageCode: "en-us"
+title: "the breadblog"
+metaDataFormat: "yaml"
+theme: "hugo_theme_robust"
+params:
+  AuthorName: "Jaime Ashander"
+...
