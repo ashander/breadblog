@@ -10,4 +10,5 @@ taxonomies:
   category: "categories"
   ingredient: "ingredients"
 ignoreFiles: "\\.xcf$"
+canonifyURLs: true
 ...
