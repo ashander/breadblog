@@ -25,7 +25,7 @@ article.li .detail {
   opacity: 1.0;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 992px) {
   article.li .image {
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
