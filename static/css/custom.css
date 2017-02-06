@@ -25,12 +25,14 @@ article.li .detail {
   opacity: 1.0;
 }
 
-article.li .image {
-  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
-}
+@media (min-width: 992px) {
+  article.li .image {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+  }
 
-article.li .image:hover{
-  opacity: 1.0;
-  filter: alpha(opacity=100); /* For IE8 and earlier */
+  article.li .image:hover{
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+  }
 }
