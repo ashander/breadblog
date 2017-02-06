@@ -1,0 +1,36 @@
+article.li .title {
+  font-family: 'Marcellus SC', cursive;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  background-color: rgba(241, 233, 210, 0.3);
+}
+
+article.li .detail {
+  vertical-align: bottom;
+}
+
+.sm article.li .detail {
+  display: table-cell;
+  padding: 0;
+  padding-left: .5rem;
+  height: 50px;
+  vertical-align: bottom;
+}
+
+.sm article.li .title {
+  overflow: hidden;
+}
+
+.sm article.li .image {
+  opacity: 1.0;
+}
+
+article.li .image {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+article.li .image:hover{
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
