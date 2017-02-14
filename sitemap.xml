@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.ashander.info/breadblog/post/a-long-cold-proof/</loc>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ashander.info/breadblog/post/perfect-pain-integral/</loc>
     <lastmod>2017-02-05T10:26:20-08:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>http://www.ashander.info/breadblog/ingredients/banneton/</loc>
-    <lastmod>2017-02-05T10:26:20-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,7 +40,7 @@
   
   <url>
     <loc>http://www.ashander.info/breadblog/categories/complet/</loc>
-    <lastmod>2017-02-04T14:43:28-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,31 +57,37 @@
   
   <url>
     <loc>http://www.ashander.info/breadblog/categories/loaf/</loc>
-    <lastmod>2017-02-05T10:26:20-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ashander.info/breadblog/ingredients/local-wheat/</loc>
-    <lastmod>2017-02-04T14:43:28-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ashander.info/breadblog/post/</loc>
-    <lastmod>2017-02-05T10:26:20-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ashander.info/breadblog/ingredients/sour/</loc>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ashander.info/breadblog/ingredients/whole-grain/</loc>
-    <lastmod>2017-02-05T10:26:20-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ashander.info/breadblog/</loc>
-    <lastmod>2017-02-05T10:26:20-08:00</lastmod>
+    <lastmod>2017-02-13T22:51:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
