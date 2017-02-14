@@ -1,6 +1,5 @@
 ---
 date: 2017-02-13T22:51:05-08:00
-draft: true
 title: a long cold proof
 image: "long-cold-complet.jpg"
 categories: ["complet", "loaf"]
