@@ -16,7 +16,7 @@ The bread below is the "holy grail". It was delicious, so I hope it's not too fl
 
 * 100g barm (fed three days prior and kept in fridge)
 * 425g water
-* 500g whole wheat community grains flour (Bob's Red Mill)
+* 500g whole wheat flour (Bob's Red Mill)
 * 10g salt
 
 Mixed up, it registered 70°F. After stretching and folding occasionally for about 12 hours (in a room temperature oven), I formed a loaf and proofed for just over 1 hour.
