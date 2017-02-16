@@ -8,10 +8,10 @@ ingredients: ["banneton", "white flour"]
 
 You can tell a good crust by the way it crackles.
 
-I mixed up this mostly-white loaf in the evening, and let it ferment into the evening and overnight. 
+I mixed up this mostly-white loaf in the evening, and let it ferment overnight.
 By the morning, when I stretched and folded it a few times the dough felt pillowy but not too sticky.
-And during its long proof, it began to peek out from the top of the banneton. 
- 
+And during its long proof, it began to peek out from the top of the banneton.
+
 All that airiness led to a great bloom, and the high-volume loaf had a wonderful open crumb.
 I also pushed the loaf during baking, leaving it in the oven 40 minutes total.
 The long bake and the high percentage of white flour led to a strong crust (note the thickness of the carmelization on the slice in the header image).
