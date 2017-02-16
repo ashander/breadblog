@@ -32,7 +32,8 @@
     <meta name="twitter:url" content="{{ .Permalink }}">
     <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
     <meta name="twitter:description" content="{{ replaceRE "\n" "" (.Description | default .Summary) }}">
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image | default "images/default.png" }}">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/{{ .Params.image | default "default.png" }}">
+
     <meta name="twitter:creator" content="{{ .Site.Params.Twitter }}">
 
   </head>
