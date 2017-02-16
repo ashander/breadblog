@@ -31,4 +31,4 @@ Finally, bake in cast iron:
 
 _Note: the image accompanying this post was changed after I realized the version first posted on 2017-02-04 mistakenly used a photo of the loaf [produced using a long cold proof](/post/a-long-cold-proof/)._
 
-![Finished loaf](/images/community-grains-loaf.jpg)
+{{< figure src="/images/community-grains-loaf.jpg" caption="Finished loaf" class="img-responsive" >}}

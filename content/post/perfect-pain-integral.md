@@ -26,5 +26,5 @@ The final loaf registered 200°F in the center
 
 The crust is not very crunchy (compared to pain complet with at least 25% white flour) but the intense caramel wheat flavor makes up for it.
 
-![Finished loaf, 8 hours out of the oven.](/images/integral-open-crumb.jpg)
+{{< figure src="/images/integral-open-crumb.jpg" caption="Finished loaf, 8 hours out of the oven." class="img-responsive" >}}
 

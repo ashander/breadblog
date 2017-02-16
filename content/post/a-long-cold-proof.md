@@ -13,11 +13,11 @@ Like the first, [a complet](/post/first-community-grains-complet/) baked using m
 In fact, its balance of wheat and sour flavors remains unique among my loaves.
 But it didn't always seem that promising.
 
+{{< figure src="/images/community-grains-header.jpg" caption="Community Grains" class="small" >}}
+
 First, though the flour was great, I started late and ran into bed time.
 I improvised using my cold stairwell (this was baked in December, 2013).
 Due to faulty weatherstripping, it's perfect for retarding fermentation overnight.
-
-![Community Grains](/images/community-grains-header.jpg)
 
 Second, after the long proof, peeling the loaf out of the banneton required a delicate touch, but luckily the outer sheath of the formed loaf held long enough to vent and place in a dutch oven for baking.
 The loaf yielded a nice bloom and a crust more finely textured than the [typical open crumb](/post/perfect-pain-integral/) of my country-style loaves.
@@ -35,4 +35,4 @@ Form and proof in banneton at approximately 45-50°F for 9 hours.
 
 Bake in cast iron (20 minutes lid-on; 10-15 lid off):
 
-![Finished loaf](/images/long-cold-complet.jpg)
+{{< figure src="/images/long-cold-complet.jpg" caption="Finished loaf" >}}
