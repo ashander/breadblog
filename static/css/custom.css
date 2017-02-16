@@ -36,3 +36,24 @@ article.li .detail {
     filter: alpha(opacity=100); /* For IE8 and earlier */
   }
 }
+.article-body figure { margin: 1.5rem 0; }
+.article-body figure img { max-width: 100%; }
+.article-body figure {
+  height: auto;
+  margin-top: 0;
+}
+.article-body figure.small {
+
+  height: 15rem;
+  overflow: hidden;
+}
+@media (max-width: 768px) {
+  .article-body figure {
+    float: none;
+    margin: 0;
+  }
+  .article-body figure.small {
+    height: 15rem;
+    overflow: hidden;
+  }
+}
