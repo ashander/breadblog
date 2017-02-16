@@ -6,6 +6,7 @@ metaDataFormat: "yaml"
 theme: "hugo_theme_robust"
 params:
   AuthorName: "Jaime Ashander"
+  Twitter: "@jaimedash"
   googleAnalyticsUserID: "UA-60354418-1"
 taxonomies:
   category: "categories"
