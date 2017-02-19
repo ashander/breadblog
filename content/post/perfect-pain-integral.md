@@ -4,6 +4,17 @@ categories: ["integral", "loaf"]
 ingredients: ["whole grain", "banneton"]
 image: "integral-open-crumb.jpg"
 title: perfect pain integral with an open crumb
+stuff:
+  dough:
+    barm: [100g, 3 fridge-days old]
+    water: [425g, 68°F]
+    whole wheat: [500g, (Bob's Red Mill)]
+    salt: [10g]
+recipe:
+  bulk: 12 hours, 70
+  proof: 1 hours, 70
+  bake: 20 lid on, 15 lid off 
+  temp: 200
 ---
 
 > _The holy grail of a whole grain hearth bread with an open crumb...can be
@@ -12,12 +23,7 @@ title: perfect pain integral with an open crumb
 
 The bread below is the "holy grail". It was delicious, so I hope it's not too fleeting.
 
-# Recipe
-
-* 100g barm (fed three days prior and kept in fridge)
-* 425g water
-* 500g whole wheat flour (Bob's Red Mill)
-* 10g salt
+{{< ingredients >}}
 
 Mixed up, it registered 70°F. After stretching and folding occasionally for about 12 hours (in a room temperature oven), I formed a loaf and proofed for just over 1 hour.
 

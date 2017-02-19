@@ -4,6 +4,17 @@ title: community grains complet
 image: "community-grains-header.jpg"
 categories: ["complet", "loaf"]
 ingredients: ["local wheat", "whole grain", "banneton"]
+stuff:
+  dough:
+    barm: [100g, young]
+    water: [400g, 68°F]
+    whole wheat: [375g, community grains  (pictured)]
+    white flour: [125g, (Bob's Red Mill)]
+    salt: [10g]
+recipe:
+  bulk: 4 hours, 70
+  proof: 2 hours, 70
+  bake: 20 lid on, 15 lid off 
 ---
 
 In late 2013, I made my first loaf with hard red winter wheat flour from Community Grains.
@@ -16,14 +27,7 @@ Some of this difference must owe to its freshness, but apparently some might owe
 Community Grains mills "true" whole wheat flour---where a bunch of whole wheat berries come in, are ground up, and then you have flour.
 In contrast, larger mills first split the wheat berry into its parts (bran, endosperm, germ), grind these and then recombine them in various proportion in their flours.
 
-
-# Recipe
-
-* 100g barm
-* 400g water 68°F
-* 375g whole wheat community grains flour (pictured)
-* 125g white flour (Bob's Red Mill)
-* 10g salt
+{{< ingredients >}}
 
 After several stretch and folds during an approximately 4 hour bulk fermentation.
 Then, 2 hours proof in banneton at 70°F.
