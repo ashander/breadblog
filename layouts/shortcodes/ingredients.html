@@ -1,0 +1,12 @@
+{{ with .Page.Params.stuff }}
+<aside class='recipe'>
+	{{ range $subrec, $items := . }}
+	<em>{{ $subrec }}</em>
+	<ul>
+		{{ range $item, $mods := . }}
+		<li>{{ index $mods 0 }} {{ $item }}, {{ index $mods 1 }}</li>
+		{{end}}
+	</ul>
+	{{ end }}
+</aside>
+{{ else }}{{ end }}
