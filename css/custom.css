@@ -1,3 +1,10 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: inherit;
+  color: #000;
+  background-color: #fafafa;
+}
 article.li .title {
   font-family: 'Marcellus SC', cursive;
   text-overflow: ellipsis;
