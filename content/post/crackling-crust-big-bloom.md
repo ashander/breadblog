@@ -6,15 +6,19 @@ categories: ["whiteish", "loaf", "bloom"]
 ingredients: ["banneton", "white flour"]
 stuff:
   dough:
-    barm: [100g, X days in fridge]
+    barm: [100g, fed and refrigerated for 3.5 days]
     water: [400g, 70°F]
-    whole wheat: [400g, (Bob's Red Mill)]
+    whole wheat: [100g, (Bob's Red Mill)]
     white flour: [400g,  (King Arthur)]
-recipe:
+stats:
   bulk: 12 hours, 68
   proof: 2 hours, 70
-  bake: 20 lid on, 20 lid off 
+  bake: 20 lid on, 20 lid off
   temp: 205
+steps:
+  bulk: The dough mixed up to 68°F. After 12 hours bulk fermentation at cool room temperature, with a few stretch and folds near the end, it registered 68°F.
+  proof: I formed it rather quickly and proofed in a banneton for 2 hours.
+  bake: After baking in cast iron (20 minutes lid-on at 500°F.; 20 min lid off, turning every 5-8 minutes at 450°F), the dough registered 205°F in the center.
 ---
 
 You can tell a good crust by the way it crackles.
@@ -30,10 +34,5 @@ Later, cooling on the counter, the bread crackled gently (and sometimes less gen
 
 {{< figure src="/images/crackling-close.jpg" caption="Close up of cracks on the cooled loaf" class="small" >}}
 
-{{% ingredients %}}
+{{% recipe %}}
 
-The dough mixed up to 68°F.
-After 12 hours bulk fermentation at cool room temperature, with a few stretch and folds near the end, it registered 68°F.
-I formed it rather quickly and proofed in a banneton for 2 hours.
-
-After baking in cast iron (20 minutes lid-on at 500°F.; 20 min lid off, turning every 5-8 minutes at 450°F), the dough registered 205°F in the center.

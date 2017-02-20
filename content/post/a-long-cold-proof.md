@@ -6,14 +6,18 @@ categories: ["complet", "loaf"]
 ingredients: ["local wheat", "whole grain", "banneton", "sour"]
 stuff:
   dough:
-    barm: [100g, X days in fridge]
+    barm: [100g, age unknown]
     water: [425g, 72°F]
     whole wheat: [400g, community grains  (pictured)]
     white flour: [100g, (Bob's Red Mill)]
-recipe:
+stats:
   bulk: 5 hours, 75
-  proof: 9 hours, 45 
-  bake: 20 lid on, 15 lid off 
+  proof: 9 hours, 45
+  bake: 20 lid on, 15 lid off
+steps:
+  bulk: Several stretch and folds during an approximately 5 hour bulk fermentation at 75-80°F in an unheated oven.
+  proof: Form and proof in banneton at approximately 45-50°F for 9 hours.
+  bake: Bake in cast iron (20 minutes lid-on; 10-15 lid off)
 ---
 
 Sometimes, you just run out of time.
@@ -32,11 +36,6 @@ Due to faulty weatherstripping, it's perfect for retarding fermentation overnigh
 Second, after the long proof, peeling the loaf out of the banneton required a delicate touch, but luckily the outer sheath of the formed loaf held long enough to vent and place in a dutch oven for baking.
 The loaf yielded a nice bloom and a crust more finely textured than the [typical open crumb](/post/perfect-pain-integral/) of my country-style loaves.
 
-{{% ingredients %}}
-
-Several stretch and folds during an approximately 5 hour bulk fermentation at 75-80°F in an unheated oven.
-Form and proof in banneton at approximately 45-50°F for 9 hours.
-
-Bake in cast iron (20 minutes lid-on; 10-15 lid off):
+{{% recipe %}}
 
 {{< figure src="/images/long-cold-complet.jpg" caption="Finished loaf" >}}
