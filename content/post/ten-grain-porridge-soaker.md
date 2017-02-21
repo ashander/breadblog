@@ -2,10 +2,9 @@
 date: 2017-02-20T22:00:21-08:00
 title: ten grain porridge soaker
 image: "porridge-final.jpg"
-draft: true
 categories: ["multi-grain", "loaf", "soaker"]
 ingredients: ["banneton", "white flour", "10 grain"]
-stuff: 
+stuff:
   soaker:
     water: [300g, boiling hot]
     ten-grain hot cereal: [200g, (Bob's Red Mill)]
