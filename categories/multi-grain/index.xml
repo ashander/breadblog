@@ -47,15 +47,6 @@ They make great toast.&lt;/p&gt;
 
 &lt;aside class=&#39;recipe&#39;&gt;
 	
-	&lt;span class=&#39;subrecipe&#39;&gt;soaker&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;300g&lt;/span&gt; water, boiling hot&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;200g&lt;/span&gt; ten-grain hot cereal, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
 	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
 	&lt;ul&gt;
 		
@@ -66,6 +57,15 @@ They make great toast.&lt;/p&gt;
 		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;300g&lt;/span&gt; water, water&lt;/li&gt;
 		
 		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;10g&lt;/span&gt; salt, &lt;/li&gt;
+		
+	&lt;/ul&gt;
+	
+	&lt;span class=&#39;subrecipe&#39;&gt;soaker&lt;/span&gt;
+	&lt;ul&gt;
+		
+		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;300g&lt;/span&gt; water, boiling hot&lt;/li&gt;
+		
+		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;200g&lt;/span&gt; ten-grain hot cereal, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
 		
 	&lt;/ul&gt;
 	
