@@ -8,6 +8,7 @@ params:
   AuthorName: "Jaime Ashander"
   Twitter: "@jaimedash"
   googleAnalyticsUserID: "UA-60354418-1"
+  about: "post/start-it-up/"
 taxonomies:
   category: "categories"
   ingredient: "ingredients"

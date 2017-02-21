@@ -105,3 +105,6 @@ article.single aside.recipe p {
   margin-bottom: 0.25rem;
   line-height: 1rem;
 }
+footer.site a {
+  color: #989;
+}

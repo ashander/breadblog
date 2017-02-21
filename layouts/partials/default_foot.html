@@ -1,5 +1,9 @@
 <footer class="site">
-	<p>{{ with .Site.Copyright | safeHTML }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "Author" }}{{ $.Site.Params.Author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</p> <p>Powered by <a href="http://gohugo.io" target="_blank">Hugo</a>,</p>
+	<p>{{ with .Site.Copyright | safeHTML }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "Author" }}{{ $.Site.Params.Author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}
+	<a href="{{ $.Site.BaseURL }}{{ $.Site.Params.about }}">...</a>
+	</p>
+
+	<p>Powered by <a href="http://gohugo.io" target="_blank">Hugo</a></p>
 </footer>
   {{ if ne (getenv "HUGO_ENV") "DEV" }}
     {{ with .Site.Params.GoogleAnalyticsUserID }}
