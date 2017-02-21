@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.ashander.info/breadblog/post/ten-grain-porridge-soaker/</loc>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ashander.info/breadblog/post/crackling-crust-big-bloom/</loc>
     <lastmod>2017-02-15T23:47:37-08:00</lastmod>
   </url>
@@ -27,8 +32,14 @@
   </url>
   
   <url>
+    <loc>http://www.ashander.info/breadblog/ingredients/10-grain/</loc>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ashander.info/breadblog/ingredients/banneton/</loc>
-    <lastmod>2017-02-15T23:47:37-08:00</lastmod>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +73,7 @@
   
   <url>
     <loc>http://www.ashander.info/breadblog/categories/loaf/</loc>
-    <lastmod>2017-02-15T23:47:37-08:00</lastmod>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,8 +84,20 @@
   </url>
   
   <url>
+    <loc>http://www.ashander.info/breadblog/categories/multi-grain/</loc>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ashander.info/breadblog/post/</loc>
-    <lastmod>2017-02-15T23:47:37-08:00</lastmod>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ashander.info/breadblog/categories/soaker/</loc>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +109,7 @@
   
   <url>
     <loc>http://www.ashander.info/breadblog/ingredients/white-flour/</loc>
-    <lastmod>2017-02-15T23:47:37-08:00</lastmod>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -104,7 +127,7 @@
   
   <url>
     <loc>http://www.ashander.info/breadblog/</loc>
-    <lastmod>2017-02-15T23:47:37-08:00</lastmod>
+    <lastmod>2017-02-20T22:00:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
