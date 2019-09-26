@@ -1,156 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the breadblog </title>
-    <link>http://www.ashander.info/breadblog/ingredients/white-flour/index.xml</link>
+    <title>white flour on the breadblog</title>
+    <link>https://www.ashander.info/breadblog/ingredients/white-flour/</link>
+    <description>Recent content in white flour on the breadblog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Mon, 20 Feb 2017 22:00:21 -0800</lastBuildDate>
     
+	<atom:link href="https://www.ashander.info/breadblog/ingredients/white-flour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ten grain porridge soaker</title>
+      <link>https://www.ashander.info/breadblog/post/ten-grain-porridge-soaker/</link>
+      <pubDate>Mon, 20 Feb 2017 22:00:21 -0800</pubDate>
       
-        <item>
-          <title>ten grain porridge soaker</title>
-          <link>http://www.ashander.info/breadblog/post/ten-grain-porridge-soaker/</link>
-          <pubDate>Mon, 20 Feb 2017 22:00:21 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/ten-grain-porridge-soaker/</guid>
-          <description>&lt;p&gt;Using a &lt;em&gt;soaker&lt;/em&gt;&amp;mdash;some raw or ground grain mixed in water, soaked for a bit, then added to the dough after the first mix&amp;mdash;you can put almost any grain into a sourdough loaf.
-For this loaf, I used some Bob&amp;rsquo;s Red Mill 10 grain hot cereal (good cereal, by the way):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;whole wheat, rye, triticale, millet, oats, brown rice, barley, corn, soy beans, oat bran and flaxseeds&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I&amp;rsquo;ve made a few loaves using this technique.
-More often than not, they&amp;rsquo;ve ended up with very high hydration (this one pencils out to something like 120% water, which was too much) but a chewy and highly gelatinized crumb.
-They make great toast.&lt;/p&gt;
-
-
-&lt;figure class=&#34;small&#34;&gt;
+      <guid>https://www.ashander.info/breadblog/post/ten-grain-porridge-soaker/</guid>
+      <description>Using a soaker&amp;mdash;some raw or ground grain mixed in water, soaked for a bit, then added to the dough after the first mix&amp;mdash;you can put almost any grain into a sourdough loaf. For this loaf, I used some Bob&amp;rsquo;s Red Mill 10 grain hot cereal (good cereal, by the way):
+ whole wheat, rye, triticale, millet, oats, brown rice, barley, corn, soy beans, oat bran and flaxseeds
+ I&amp;rsquo;ve made a few loaves using this technique.</description>
+    </item>
     
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/porridge-bulk.jpg&#34; alt=&#34;Freshly mixed dough and soaker&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Freshly mixed dough and soaker
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, fed 1.5 days in fridge&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;300g&lt;/span&gt; flour, (King Arthur All Purpose White)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;300g&lt;/span&gt; water, water&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;10g&lt;/span&gt; salt, &lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;soaker&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;300g&lt;/span&gt; water, boiling hot&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;200g&lt;/span&gt; ten-grain hot cereal, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;Began bulk fermentation at 90F°; after 8 hours the dough was soupy. It might have held its form better a few hours earlier.&lt;/p&gt;
-	
-	&lt;p&gt;I quickly formed the dough on a thick layer of flour and proofed 30 minutes in a banneton&lt;/p&gt;
-	
-	&lt;p&gt;Scooping the loaf into a cast iron dutch oven, I sprinkled on some cornmeal and roughly slashed the top.
-It baked for 20 minutes with the lid on at 500°F, and 30 (!) minutes with the lid off at 450°F.
-Out of the oven, the loaf registered 205°F in the center.
-&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-</description>
-        </item>
+    <item>
+      <title>a big bloom and crackling crust</title>
+      <link>https://www.ashander.info/breadblog/post/crackling-crust-big-bloom/</link>
+      <pubDate>Wed, 15 Feb 2017 23:47:37 -0800</pubDate>
       
+      <guid>https://www.ashander.info/breadblog/post/crackling-crust-big-bloom/</guid>
+      <description>You can tell a good crust by the way it crackles.
+I mixed up this mostly-white loaf in the evening, and let it ferment overnight. By the morning, when I stretched and folded it a few times the dough felt pillowy but not too sticky. And during its long proof, it began to peek out from the top of the banneton.
+All that airiness led to a great bloom, and the high-volume loaf had a wonderful open crumb.</description>
+    </item>
     
-      
-        <item>
-          <title>a big bloom and crackling crust</title>
-          <link>http://www.ashander.info/breadblog/post/crackling-crust-big-bloom/</link>
-          <pubDate>Wed, 15 Feb 2017 23:47:37 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/crackling-crust-big-bloom/</guid>
-          <description>&lt;p&gt;You can tell a good crust by the way it crackles.&lt;/p&gt;
-
-&lt;p&gt;I mixed up this mostly-white loaf in the evening, and let it ferment overnight.
-By the morning, when I stretched and folded it a few times the dough felt pillowy but not too sticky.
-And during its long proof, it began to peek out from the top of the banneton.&lt;/p&gt;
-
-&lt;p&gt;All that airiness led to a great bloom, and the high-volume loaf had a wonderful open crumb.
-I also pushed the loaf during baking, leaving it in the oven 40 minutes total.
-The long bake and the high percentage of white flour led to a strong crust (note the thickness of the carmelization on the slice in the header image).
-Later, cooling on the counter, the bread crackled gently (and sometimes less gently), eventually leaving scars on the cooled loaf.&lt;/p&gt;
-
-
-&lt;figure class=&#34;small&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/crackling-close.jpg&#34; alt=&#34;Close up of cracks on the cooled loaf&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Close up of cracks on the cooled loaf
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, fed and refrigerated for 3.5 days&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;400g&lt;/span&gt; water, 70°F&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; whole wheat, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;400g&lt;/span&gt; white flour, (King Arthur)&lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;The dough mixed up to 68°F. After 12 hours bulk fermentation at cool room temperature, with a few stretch and folds near the end, it registered 68°F.&lt;/p&gt;
-	
-	&lt;p&gt;I formed it rather quickly and proofed in a banneton for 2 hours.&lt;/p&gt;
-	
-	&lt;p&gt;After baking in cast iron (20 minutes lid-on at 500°F.; 20 min lid off, turning every 5-8 minutes at 450°F), the dough registered 205°F in the center.&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-</description>
-        </item>
-      
-    
-
   </channel>
 </rss>

@@ -1,231 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the breadblog </title>
-    <link>http://www.ashander.info/breadblog/ingredients/whole-grain/index.xml</link>
+    <title>whole grain on the breadblog</title>
+    <link>https://www.ashander.info/breadblog/ingredients/whole-grain/</link>
+    <description>Recent content in whole grain on the breadblog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Mon, 13 Feb 2017 22:51:05 -0800</lastBuildDate>
     
+	<atom:link href="https://www.ashander.info/breadblog/ingredients/whole-grain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a long cold proof</title>
+      <link>https://www.ashander.info/breadblog/post/a-long-cold-proof/</link>
+      <pubDate>Mon, 13 Feb 2017 22:51:05 -0800</pubDate>
       
-        <item>
-          <title>a long cold proof</title>
-          <link>http://www.ashander.info/breadblog/post/a-long-cold-proof/</link>
-          <pubDate>Mon, 13 Feb 2017 22:51:05 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/a-long-cold-proof/</guid>
-          <description>&lt;p&gt;Sometimes, you just run out of time.&lt;/p&gt;
-
-&lt;p&gt;This was my second loaf with &lt;a href=&#34;https://www.communitygrains.com/&#34;&gt;Community Grains flour&lt;/a&gt;.
-Like the first, &lt;a href=&#34;http://www.ashander.info/breadblog/post/first-community-grains-complet/&#34;&gt;a complet&lt;/a&gt; baked using more typical time and temperature, it came out great.
-In fact, its balance of wheat and sour flavors remains unique among my loaves.
-But it didn&amp;rsquo;t always seem that promising.&lt;/p&gt;
-
-
-&lt;figure class=&#34;small&#34;&gt;
+      <guid>https://www.ashander.info/breadblog/post/a-long-cold-proof/</guid>
+      <description>Sometimes, you just run out of time.
+This was my second loaf with Community Grains flour. Like the first, a complet baked using more typical time and temperature, it came out great. In fact, its balance of wheat and sour flavors remains unique among my loaves. But it didn&amp;rsquo;t always seem that promising.
+ Community Grains
+  First, though the flour was great, I started late and ran into bed time.</description>
+    </item>
     
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/community-grains-header.jpg&#34; alt=&#34;Community Grains&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Community Grains
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;First, though the flour was great, I started late and ran into bed time.
-I improvised using my cold stairwell (this was baked in December, 2013).
-Due to faulty weatherstripping, it&amp;rsquo;s perfect for retarding fermentation overnight.&lt;/p&gt;
-
-&lt;p&gt;Second, after the long proof, peeling the loaf out of the banneton required a delicate touch, but luckily the outer sheath of the formed loaf held long enough to vent and place in a dutch oven for baking.
-The loaf yielded a nice bloom and a crust more finely textured than the &lt;a href=&#34;http://www.ashander.info/breadblog/post/perfect-pain-integral/&#34;&gt;typical open crumb&lt;/a&gt; of my country-style loaves.&lt;/p&gt;
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, age unknown&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;425g&lt;/span&gt; water, 72°F&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;400g&lt;/span&gt; whole wheat, community grains  (pictured)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; white flour, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;Form and proof in banneton at approximately 45-50°F for 9 hours.&lt;/p&gt;
-	
-	&lt;p&gt;Bake in cast iron (20 minutes lid-on; 10-15 lid off)&lt;/p&gt;
-	
-	&lt;p&gt;Several stretch and folds during an approximately 5 hour bulk fermentation at 75-80°F in an unheated oven.&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/long-cold-complet.jpg&#34; alt=&#34;Finished loaf&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Finished loaf
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
-        </item>
+    <item>
+      <title>perfect pain integral with an open crumb</title>
+      <link>https://www.ashander.info/breadblog/post/perfect-pain-integral/</link>
+      <pubDate>Sun, 05 Feb 2017 10:26:20 -0800</pubDate>
       
+      <guid>https://www.ashander.info/breadblog/post/perfect-pain-integral/</guid>
+      <description>The holy grail of a whole grain hearth bread with an open crumb&amp;hellip;can be achieved&amp;mdash;even as a fleeting anomaly wholly dependent on the seasonal qualities of the grain used. &amp;mdash; Chad Robertson, Tartine Bread
+ The bread below is the &amp;ldquo;holy grail&amp;rdquo;. It was delicious, so I hope it&amp;rsquo;s not too fleeting.
+The crust is not very crunchy (compared to pain complet with at least 25% white flour) but the intense caramel wheat flavor makes up for it.</description>
+    </item>
     
+    <item>
+      <title>community grains complet</title>
+      <link>https://www.ashander.info/breadblog/post/first-community-grains-complet/</link>
+      <pubDate>Sat, 04 Feb 2017 14:43:28 -0800</pubDate>
       
-        <item>
-          <title>perfect pain integral with an open crumb</title>
-          <link>http://www.ashander.info/breadblog/post/perfect-pain-integral/</link>
-          <pubDate>Sun, 05 Feb 2017 10:26:20 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/perfect-pain-integral/</guid>
-          <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The holy grail of a whole grain hearth bread with an open crumb&amp;hellip;can be
-achieved&amp;mdash;even as a fleeting anomaly wholly dependent on the seasonal qualities of the grain used.&lt;/em&gt;
-&amp;mdash; Chad Robertson, Tartine Bread&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The bread below is the &amp;ldquo;holy grail&amp;rdquo;. It was delicious, so I hope it&amp;rsquo;s not too fleeting.&lt;/p&gt;
-
-&lt;p&gt;The crust is not very crunchy (compared to pain complet with at least 25% white flour) but the intense caramel wheat flavor makes up for it.&lt;/p&gt;
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, fed and refrigerated for 3 days&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;425g&lt;/span&gt; water, 68°F&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;500g&lt;/span&gt; whole wheat, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;10g&lt;/span&gt; salt, &lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;Mixed up, it registered 70°F. I stretched and folded occasionally for about 12 hours (in a room temperature oven).&lt;/p&gt;
-	
-	&lt;p&gt;I formed a loaf and proofed for just over 1 hour.&lt;/p&gt;
-	
-	&lt;p&gt;20 minutes lid-on in a cast iron dutch oven, pre-heated in a 500°F oven; then lid  off, down to 450°F and 15 minutes more. The final loaf registered 200°F in the center&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-
-&lt;p&gt;
-&lt;figure class=&#34;img-responsive&#34;&gt;
+      <guid>https://www.ashander.info/breadblog/post/first-community-grains-complet/</guid>
+      <description>In late 2013, I made my first loaf with hard red winter wheat flour from Community Grains. This stuff, which is milled at Certified Foods in Woodland, CA and marketed out of Oakland, is amazing.
+I still remember the strength of the wheaty smell after mixing up the dough. It blew typical whole wheat flour out of the water. Some of this difference must owe to its freshness, but apparently some might owe to the milling process.</description>
+    </item>
     
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/integral-open-crumb.jpg&#34; alt=&#34;Finished loaf, 8 hours out of the oven.&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Finished loaf, 8 hours out of the oven.
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
-          <title>community grains complet</title>
-          <link>http://www.ashander.info/breadblog/post/first-community-grains-complet/</link>
-          <pubDate>Sat, 04 Feb 2017 14:43:28 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/first-community-grains-complet/</guid>
-          <description>&lt;p&gt;In late 2013, I made my first loaf with hard red winter wheat flour from Community Grains.
-This stuff, which is milled at Certified Foods in Woodland, CA and &lt;a href=&#34;https://www.communitygrains.com/&#34;&gt;marketed out of Oakland&lt;/a&gt;, is amazing.&lt;/p&gt;
-
-&lt;p&gt;I still remember the strength of the wheaty smell after mixing up the dough.
-It blew typical whole wheat flour out of the water.
-Some of this difference must owe to its freshness, but apparently some might owe to the milling process.
-Community Grains mills &amp;ldquo;true&amp;rdquo; whole wheat flour&amp;mdash;where a bunch of whole wheat berries come in, are ground up, and then you have flour.
-In contrast, larger mills first split the wheat berry into its parts (bran, endosperm, germ), grind these and then recombine them in various proportion in their flours.&lt;/p&gt;
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;375g&lt;/span&gt; whole wheat, community grains  (pictured)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;125g&lt;/span&gt; white flour, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;10g&lt;/span&gt; salt, &lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, age unknown&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;400g&lt;/span&gt; water, 68°F&lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;Several stretch and folds during an approximately 4 hour bulk fermentation.&lt;/p&gt;
-	
-	&lt;p&gt;Proof for 2 hours in banneton at 70°F.&lt;/p&gt;
-	
-	&lt;p&gt;Finally, bake in cast iron (20 minutes lid on; 12 minutes lid off)&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-
-&lt;p&gt;&lt;em&gt;Note: the image accompanying this post was changed after I realized the version first posted on 2017-02-04 mistakenly used a photo of the loaf &lt;a href=&#34;http://www.ashander.info/breadblog/post/a-long-cold-proof/&#34;&gt;produced using a long cold proof&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-
-&lt;figure class=&#34;img-responsive&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/community-grains-loaf.jpg&#34; alt=&#34;Finished loaf&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Finished loaf
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
-        </item>
-      
-    
-
   </channel>
 </rss>

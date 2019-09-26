@@ -1,78 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the breadblog </title>
-    <link>http://www.ashander.info/breadblog/categories/integral/index.xml</link>
+    <title>integral on the breadblog</title>
+    <link>https://www.ashander.info/breadblog/categories/integral/</link>
+    <description>Recent content in integral on the breadblog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Sun, 05 Feb 2017 10:26:20 -0800</lastBuildDate>
     
+	<atom:link href="https://www.ashander.info/breadblog/categories/integral/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>perfect pain integral with an open crumb</title>
+      <link>https://www.ashander.info/breadblog/post/perfect-pain-integral/</link>
+      <pubDate>Sun, 05 Feb 2017 10:26:20 -0800</pubDate>
       
-        <item>
-          <title>perfect pain integral with an open crumb</title>
-          <link>http://www.ashander.info/breadblog/post/perfect-pain-integral/</link>
-          <pubDate>Sun, 05 Feb 2017 10:26:20 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/perfect-pain-integral/</guid>
-          <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The holy grail of a whole grain hearth bread with an open crumb&amp;hellip;can be
-achieved&amp;mdash;even as a fleeting anomaly wholly dependent on the seasonal qualities of the grain used.&lt;/em&gt;
-&amp;mdash; Chad Robertson, Tartine Bread&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The bread below is the &amp;ldquo;holy grail&amp;rdquo;. It was delicious, so I hope it&amp;rsquo;s not too fleeting.&lt;/p&gt;
-
-&lt;p&gt;The crust is not very crunchy (compared to pain complet with at least 25% white flour) but the intense caramel wheat flavor makes up for it.&lt;/p&gt;
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, fed and refrigerated for 3 days&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;425g&lt;/span&gt; water, 68°F&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;500g&lt;/span&gt; whole wheat, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;10g&lt;/span&gt; salt, &lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;Mixed up, it registered 70°F. I stretched and folded occasionally for about 12 hours (in a room temperature oven).&lt;/p&gt;
-	
-	&lt;p&gt;I formed a loaf and proofed for just over 1 hour.&lt;/p&gt;
-	
-	&lt;p&gt;20 minutes lid-on in a cast iron dutch oven, pre-heated in a 500°F oven; then lid  off, down to 450°F and 15 minutes more. The final loaf registered 200°F in the center&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-
-&lt;p&gt;
-&lt;figure class=&#34;img-responsive&#34;&gt;
+      <guid>https://www.ashander.info/breadblog/post/perfect-pain-integral/</guid>
+      <description>The holy grail of a whole grain hearth bread with an open crumb&amp;hellip;can be achieved&amp;mdash;even as a fleeting anomaly wholly dependent on the seasonal qualities of the grain used. &amp;mdash; Chad Robertson, Tartine Bread
+ The bread below is the &amp;ldquo;holy grail&amp;rdquo;. It was delicious, so I hope it&amp;rsquo;s not too fleeting.
+The crust is not very crunchy (compared to pain complet with at least 25% white flour) but the intense caramel wheat flavor makes up for it.</description>
+    </item>
     
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/integral-open-crumb.jpg&#34; alt=&#34;Finished loaf, 8 hours out of the oven.&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Finished loaf, 8 hours out of the oven.
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-        </item>
-      
-    
-
   </channel>
 </rss>

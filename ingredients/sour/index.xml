@@ -1,100 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the breadblog </title>
-    <link>http://www.ashander.info/breadblog/ingredients/sour/index.xml</link>
+    <title>sour on the breadblog</title>
+    <link>https://www.ashander.info/breadblog/ingredients/sour/</link>
+    <description>Recent content in sour on the breadblog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Mon, 13 Feb 2017 22:51:05 -0800</lastBuildDate>
     
+	<atom:link href="https://www.ashander.info/breadblog/ingredients/sour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a long cold proof</title>
+      <link>https://www.ashander.info/breadblog/post/a-long-cold-proof/</link>
+      <pubDate>Mon, 13 Feb 2017 22:51:05 -0800</pubDate>
       
-        <item>
-          <title>a long cold proof</title>
-          <link>http://www.ashander.info/breadblog/post/a-long-cold-proof/</link>
-          <pubDate>Mon, 13 Feb 2017 22:51:05 PST</pubDate>
-          <author></author>
-          <guid>http://www.ashander.info/breadblog/post/a-long-cold-proof/</guid>
-          <description>&lt;p&gt;Sometimes, you just run out of time.&lt;/p&gt;
-
-&lt;p&gt;This was my second loaf with &lt;a href=&#34;https://www.communitygrains.com/&#34;&gt;Community Grains flour&lt;/a&gt;.
-Like the first, &lt;a href=&#34;http://www.ashander.info/breadblog/post/first-community-grains-complet/&#34;&gt;a complet&lt;/a&gt; baked using more typical time and temperature, it came out great.
-In fact, its balance of wheat and sour flavors remains unique among my loaves.
-But it didn&amp;rsquo;t always seem that promising.&lt;/p&gt;
-
-
-&lt;figure class=&#34;small&#34;&gt;
+      <guid>https://www.ashander.info/breadblog/post/a-long-cold-proof/</guid>
+      <description>Sometimes, you just run out of time.
+This was my second loaf with Community Grains flour. Like the first, a complet baked using more typical time and temperature, it came out great. In fact, its balance of wheat and sour flavors remains unique among my loaves. But it didn&amp;rsquo;t always seem that promising.
+ Community Grains
+  First, though the flour was great, I started late and ran into bed time.</description>
+    </item>
     
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/community-grains-header.jpg&#34; alt=&#34;Community Grains&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Community Grains
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;First, though the flour was great, I started late and ran into bed time.
-I improvised using my cold stairwell (this was baked in December, 2013).
-Due to faulty weatherstripping, it&amp;rsquo;s perfect for retarding fermentation overnight.&lt;/p&gt;
-
-&lt;p&gt;Second, after the long proof, peeling the loaf out of the banneton required a delicate touch, but luckily the outer sheath of the formed loaf held long enough to vent and place in a dutch oven for baking.
-The loaf yielded a nice bloom and a crust more finely textured than the &lt;a href=&#34;http://www.ashander.info/breadblog/post/perfect-pain-integral/&#34;&gt;typical open crumb&lt;/a&gt; of my country-style loaves.&lt;/p&gt;
-
-&lt;aside class=&#39;recipe&#39;&gt;
-	
-	&lt;span class=&#39;subrecipe&#39;&gt;dough&lt;/span&gt;
-	&lt;ul&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; barm, age unknown&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;425g&lt;/span&gt; water, 72°F&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;400g&lt;/span&gt; whole wheat, community grains  (pictured)&lt;/li&gt;
-		
-		&lt;li&gt;&lt;span class=&#39;amt&#39;&gt;100g&lt;/span&gt; white flour, (Bob&amp;#39;s Red Mill)&lt;/li&gt;
-		
-	&lt;/ul&gt;
-	
-	
-	&lt;p&gt;Form and proof in banneton at approximately 45-50°F for 9 hours.&lt;/p&gt;
-	
-	&lt;p&gt;Bake in cast iron (20 minutes lid-on; 10-15 lid off)&lt;/p&gt;
-	
-	&lt;p&gt;Several stretch and folds during an approximately 5 hour bulk fermentation at 75-80°F in an unheated oven.&lt;/p&gt;
-	
-&lt;/aside&gt;
-
-
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.ashander.info/breadblog/images/long-cold-complet.jpg&#34; alt=&#34;Finished loaf&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Finished loaf
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
-        </item>
-      
-    
-
   </channel>
 </rss>
